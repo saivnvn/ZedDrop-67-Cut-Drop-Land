@@ -1,7 +1,7 @@
 # ZedDrop: Cut, Drop & Land Swing
 
 <p align="center">
-  <img src="512.png" width="200" />
+  <img src="logo.png" width="200" />
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ Short runs. High tension. Pure skill.
 
 <p align="center">
   <img src="anh1.png" width="250"/>
-  <img src="anh2.png" width="250"/>
+  <img src="anh4.png" width="250"/>
   <img src="anh3.png" width="250"/>
 </p>
 
